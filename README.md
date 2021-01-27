@@ -1,7 +1,7 @@
-# chromWebApp_vanilaJS
+# WebApp_vanilaJS
 Make web application by vanila javascript
 
-바닐라 자바스크립트를 이용하여 만든 TOOD 웹페이지
+바닐라 자바스크립트를 이용하여 만든 TOOD 웹 
 
 ## 기능
 - 시계
