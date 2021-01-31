@@ -13,10 +13,8 @@ Make web application by vanila javascript
 - 사용자 이름
 - TODO list
 
----
-
 ## 구현
 
-<img width="600" src="Image/readmeImg0.png">
+<img width="600" src="image/readmeImg0.png">
 
-<img width="600" src="Image/readmeImg1.png">
+<img width="600" src="image/readmeImg1.png">
