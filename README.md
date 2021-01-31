@@ -15,6 +15,6 @@ Make web application by vanila javascript
 
 ## 구현
 
-<img width="600" src="image/readmeImg0.png">
+<img width="600" src="images/readmeImg0.png">
 
-<img width="600" src="image/readmeImg1.png">
+<img width="600" src="images/readmeImg1.png">
